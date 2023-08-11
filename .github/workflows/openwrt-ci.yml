@@ -113,7 +113,7 @@ jobs:
           CONFIG_PACKAGE_ipv6helper=y
           CONFIG_PACKAGE_jq=y
           CONFIG_PACKAGE_kcptun-client=y
-          CONFIG_PACKAGE_kcptun-          CONFIG=y
+          CONFIG_PACKAGE_kcptun-config=y
           CONFIG_PACKAGE_kmod-asn1-encoder=y
           CONFIG_PACKAGE_kmod-br-netfilter=y
           CONFIG_PACKAGE_kmod-crypto-rng=y
@@ -124,7 +124,7 @@ jobs:
           CONFIG_PACKAGE_kmod-dummy=y
           CONFIG_PACKAGE_kmod-fs-btrfs=y
           CONFIG_PACKAGE_kmod-ifb=y
-          CONFIG_PACKAGE_kmod-ik          CONFIG=y
+          CONFIG_PACKAGE_kmod-ikconfig=y
           CONFIG_PACKAGE_kmod-inet-diag=y
           CONFIG_PACKAGE_kmod-ip6tables=y
           CONFIG_PACKAGE_kmod-ipt-filter=y
